@@ -1,5 +1,7 @@
 # PostgreSQL Users Group Belgium 🐘
 
+![PostgreSQL Users Group Belgium](assets/logo.png)
+
 Welcome to the **PostgreSQL Users Group Belgium** — a community for PostgreSQL enthusiasts, professionals, and newcomers across Belgium. We bring together developers, DBAs, and data engineers to share knowledge, best practices, and a love for open-source databases.
 
 ## 🗓️ Stay Connected

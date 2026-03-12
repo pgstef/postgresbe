@@ -1,4 +1,4 @@
-# 🐘 PostgreSQL Users Group Belgium
+# 🐘 PostgreSQL Users Group Belgium 🖤💛❤️
 
 <p align="center">
   <img src="assets/logo.png" alt="PostgreSQL Users Group Belgium" width="100"/>
